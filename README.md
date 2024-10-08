@@ -1,1 +1,2 @@
 # odin-recipes
+This very simple project is a part of the where i learned to use simple html to create a recipe website all the details and images are taken from all [AllRecipes](https://www.allrecipes.com). 
